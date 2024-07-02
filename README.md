@@ -38,7 +38,7 @@ First, clone the repository to your local machine:
 
  ```bash
 git clone https://github.com/asutosh24595/todo-frontend.git
-cd repository-name
+cd todo-frontend
 
 ```
 ### Install Dependencies
