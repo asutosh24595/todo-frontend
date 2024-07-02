@@ -1,7 +1,7 @@
-### Project Title
+# Project Title
 To-Do App using React.js
 
-### Table of Contents
+## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Features](#features)
@@ -30,24 +30,24 @@ Bootstrap
 ## Installation
 To get started with this project, follow these steps to set up and run the application on your local machine.
 
-# Prerequisites
+### Prerequisites
 Before proceeding, ensure you have the following installed:
 Node.js and npm (Node Package Manager). You can download and install them from nodejs.org.
 
-# Clone the Repository
+### Clone the Repository
 First, clone the repository to your local machine:
 
-git clone https://github.com/your/repository.git
-cd repository-name
+`git clone https://github.com/your/repository.git`
+`cd repository-name`
 
-# Install Dependencies
+### Install Dependencies
 Navigate to the project directory and install the necessary dependencies:
 
-npm install
+`npm install`
 
 Once the dependencies are installed, you can start the application:
 
-npm start
+`npm start`
 
 ## Usage
 
