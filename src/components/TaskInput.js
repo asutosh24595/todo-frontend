@@ -65,7 +65,7 @@ const TaskInput = () => {
   return (
     <div className="d-flex align-items-center justify-content-center add-task">
       <form
-        className="d-flex flex-column align-items-center justify-content-center w-50 add-task-form"
+        className="d-flex flex-column align-items-center justify-content-center add-task-form"
         onSubmit={handleEventSubmit}
       >
         <div className="form-floating mb-3 w-100 mt-3">
