@@ -40,6 +40,7 @@ First, clone the repository to your local machine:
 git clone https://github.com/asutosh24595/todo-frontend.git
 cd repository-name
 
+```
 ### Install Dependencies
 Navigate to the project directory and install the necessary dependencies:
 
