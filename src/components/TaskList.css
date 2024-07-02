@@ -1,0 +1,53 @@
+.tasks {
+    width: 100%;
+    min-height: 100vh;
+    font-family: 'Caveat';
+    font-size: larger;
+}
+
+.tasks-list{
+    width: 50%;
+    height:auto;
+}
+
+.task-item{
+    border: 1px solid black;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    box-shadow: 0 4px 8px rgba(82, 56, 97, 0.5);
+    background-color:#d8e2dc;
+}
+
+.task-item:hover{
+    transform: scale(1.2);
+    transition: ease-out;
+    transition-duration: 1s;
+}
+
+.buttons-container {
+    display: flex;
+    gap: 10px;
+    margin-left: auto; 
+}
+
+.buttons{
+    background: linear-gradient(45deg, #175c6f, #2575fc);
+    color: white;
+    border: none;
+    border-radius: 25px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: 0.3s ease, transform 0.3s ease;
+}
+
+.buttons:hover{
+    background: linear-gradient(45deg, #2575fc, #175c6f);
+    transform: scale(1.05);
+}
+
+.isCompleted{
+    text-decoration: line-through;
+    color: grey;
+}
