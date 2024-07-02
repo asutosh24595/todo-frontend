@@ -20,12 +20,11 @@ Persistence: Redux-persist ensures task data persists across sessions.
 Routing: Navigate between task list, task addition, and editing views using React Router.
 
 ## Technologies Used
-React
-Redux Toolkit
-React Router DOM
-Redux-persist
-Material-UI
-Bootstrap
+- **React Redux Toolkit**
+- **React Router DOM**
+- **Redux-persist**
+- **Material-UI**
+- **Bootstrap**
 
 ## Installation
 To get started with this project, follow these steps to set up and run the application on your local machine.
